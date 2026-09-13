@@ -20,7 +20,7 @@ Atuo no ciclo completo de desenvolvimento de software, desde a arquitetura e imp
 ## Banco de Dados
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,sqlserver,oracle,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 </p>
 
 ## DevOps / Infra
